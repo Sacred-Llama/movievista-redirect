@@ -17,7 +17,7 @@ const routes = [
     beforeEnter: (to, from, next) => {
       // Redirect to YouTube for any string 
       // window.location.href = 'https://acquisitionsneezeswell.com/mwk0886hw?key=effd9a9b1d612f89b6b6d4e6889916ff';
-      window.location.href = 'https://anddescendedcocoa.com/d646i2ddt?key=fcb1a5bac17efdca193654390f35b205';
+      window.location.href = 'https://anddescendedcocoa.com/m9qyseirc7?key=202811e8034a3df98afc4769ecbfdf0a';
     }
     
   }
